@@ -1,0 +1,3 @@
+virtualenv
+backup
+app/config/config.php

@@ -1,0 +1,11 @@
+<?php
+error_reporting(E_ALL);
+ini_set("display_errors", 0); // Set to 1 to display errors
+
+
+define('URL', 'http://localhost/'); // URL of your website
+define('DB_HOST', '127.0.0.1'); // Database host
+define('DB_PORT', 3306); // Database port
+define('DB_NAME', ''); // Database name
+define('DB_USER', ''); // Database user
+define('DB_PASS', ''); // Database password
