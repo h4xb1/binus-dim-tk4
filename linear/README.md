@@ -6,6 +6,13 @@ OS1 - 2221 - TFBA / TK4-W9-S13-R0
 
 #### Instalation :
 
+
+- #### Import database
+
+```http
+  db/dummy.sql
+```
+
 - #### Clone project
 
 ```http
@@ -19,21 +26,31 @@ OS1 - 2221 - TFBA / TK4-W9-S13-R0
 ```
 
 - #### Setup database & url at Config.py
+
 ```http
   vi linear/Config.py
 ```
 
 - #### Make virtual environment
+
 ```http
   python3 -m venv virtualenv
 ```
 
 - #### Activate virtual environment (LINUX & UNIX)
+
 ```http
   source virtualenv/bin/activate 
 ```
 
 - #### Install packages
+
 ```http
   pip install -r requirements.txt
+```
+
+- #### Run program
+
+```http
+  python PackageCombination.py
 ```

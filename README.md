@@ -8,6 +8,12 @@ OS1 - 2221 - TFBA / TK4-W9-S13-R0
 
 #### Instalation :
 
+- #### Import database
+
+```http
+  db/dummy.sql
+```
+
 - #### Clone project
 
 ```http
