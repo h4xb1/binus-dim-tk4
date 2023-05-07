@@ -1,3 +1,7 @@
 virtualenv
 backup
 app/config/config.php
+linear/venv
+__pycache__
+linear/LinearExample.py
+linear/Config.py

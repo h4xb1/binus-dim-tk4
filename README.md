@@ -3,6 +3,8 @@
 OS1 - 2221 - TFBA / TK4-W9-S13-R0
 
 #### Simple Skeleton MVC CRUD
+#### PHP 8
+#### MySQL 5.7
 
 #### Instalation :
 
